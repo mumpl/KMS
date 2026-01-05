@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2D820A-5D9D-DD85-98D3-2961E2431889}|Assembly-CSharp.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u043C\u0441 \u0433\u0443\u0440\u0438\u043D\\unity\\lab10\\assets\\scripts\\ray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2D820A-5D9D-DD85-98D3-2961E2431889}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2D820A-5D9D-DD85-98D3-2961E2431889}|Assembly-CSharp.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\assets\\scripts\\clickscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2D820A-5D9D-DD85-98D3-2961E2431889}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2D820A-5D9D-DD85-98D3-2961E2431889}|Assembly-CSharp.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\assets\\scripts\\generatescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2D820A-5D9D-DD85-98D3-2961E2431889}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\generatescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ray.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\Assets\\Scripts\\ray.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ray.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\Assets\\Scripts\\ray.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:39:59.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\Assets\\Scripts\\ClickScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\Assets\\Scripts\\ClickScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClickScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:59:23.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerateScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\Assets\\Scripts\\GenerateScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GenerateScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab10\\Assets\\Scripts\\GenerateScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GenerateScript.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T18:58:47.672Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 362,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
