@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\assets\\scripts\\capsulescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\capsulescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u043C\u0441 \u0433\u0443\u0440\u0438\u043D\\unity\\lab11\\assets\\scripts\\vorotascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vorotascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\assets\\scripts\\spotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\assets\\scripts\\doorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\assets\\scripts\\cubeplayerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubeplayerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\assets\\scripts\\pointsscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A409B8-594A-72D1-73C8-7F1977474F20}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pointsscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VorotaScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\VorotaScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VorotaScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\VorotaScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VorotaScript.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:22:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpotScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\SpotScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpotScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\SpotScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpotScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:02:16.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\DoorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\DoorScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T19:41:04.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:47:18.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CapsuleScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\CapsuleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CapsuleScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\CapsuleScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CapsuleScript.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:03:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CubePlayerScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\CubePlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubePlayerScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\CubePlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubePlayerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:35:18.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointsScript.cs",
+              "DocumentMoniker": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\PointsScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PointsScript.cs",
+              "ToolTip": "D:\\\u0423\u0427\u0401\u0411\u0410\\3 \u043A\u0443\u0440\u0441\\\u041A\u041C\u0421 \u0413\u0443\u0440\u0438\u043D\\Unity\\lab11\\Assets\\Scripts\\PointsScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PointsScript.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T21:01:48.539Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
